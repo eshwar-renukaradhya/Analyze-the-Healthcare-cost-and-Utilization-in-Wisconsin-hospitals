@@ -1,0 +1,2 @@
+# Analyze-the-Healthcare-cost-and-Utilization-in-Wisconsin-hospitals
+The dataset used is restricted to the city of Wisconsin and relates to the patients in the age group 0-17 years. The goals of this project are: To find the age category of people who frequent the hospital and has the maximum expenditure, To find the diagnosis related group that has maximum hospitalization and expenditure, To analyze severity of the hospital costs by age and gender for proper allocation of resources etc.
